@@ -23,4 +23,4 @@ function solution(numbers, n) {
 ```
 + numbers 매개변수 값을 받음.
 + for문으로 배열의 값을 순회
-+ n 매개변수 값보다 크면 return 반환하여 멈추기 
++ n 매개변수 값보다 크면 return으로 반환하여 멈추기 
