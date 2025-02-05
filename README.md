@@ -10,5 +10,5 @@
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md">소문자로 바꾸기</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md">대문자로 바꾸기</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.md">두 수의 합</a>
-+ <a href="">ad 제거하기</a>
++ <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/ad%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md">ad 제거하기</a>
 
