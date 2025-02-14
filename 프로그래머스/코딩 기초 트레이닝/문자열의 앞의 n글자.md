@@ -14,4 +14,4 @@ function solution(my_string, n) {
 }
 ```
 + my_string, n 매개변수 값 받음.
-+ substring() 메서드 이용하여 0부터 n번째까지 문자열을 잘라서 return  
++ substring() 메서드 이용하여 0부터 n번째까지 문자열을 잘라서 return 반환
