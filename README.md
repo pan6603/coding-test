@@ -20,5 +20,5 @@
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85.md">카운트 업</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1.md">두 수의 곱</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md">숫자 비교하기</a>
-+ <a href="">짝수의 합</a>
++ <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9.md">짝수의 합</a>
 
