@@ -42,6 +42,6 @@
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98.md">짝수 홀수 개수</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%92%A4%EC%97%90%EC%84%9C%205%EB%93%B1%20%EC%9C%84%EB%A1%9C.md">뒤에서 5등 위로</a>
 + <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/n%EA%B0%9C%20%EA%B0%84%EA%B2%A9%EC%9D%98%20%EC%9B%90%EC%86%8C%EB%93%A4.md">n개 간격의 원소들</a>
-+ <a href="">문자열 잘라서 정렬하기</a>
++ <a href="https://github.com/pan6603/coding-test/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%98%EB%9D%BC%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md">문자열 잘라서 정렬하기</a>
 
 
